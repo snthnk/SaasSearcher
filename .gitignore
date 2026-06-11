@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+output_*.json
+output_*.md
+output_*_search.txt
+output_*_formulator_raw.txt
