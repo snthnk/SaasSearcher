@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 .env
+runs/
 output_*.json
 output_*.md
 output_*_search.txt
